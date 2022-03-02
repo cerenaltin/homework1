@@ -1,2 +1,2 @@
 # homework1
-Kodluyoruz HTML ödevi
+Kodluyoruz ile oluşturduğum ilk web sayfası.
